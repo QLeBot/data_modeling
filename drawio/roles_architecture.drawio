@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.0">
+  <diagram name="Page-1" id="oSgDY5iN_sB75ND0T2ZF">
+    <mxGraphModel dx="2194" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cQloMc94f7-QOOJhuJX4-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="160" width="520" x="960" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="440" width="560" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="360" width="520" x="960" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-24" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ORGADMIN" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-22" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-25" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-32" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ACCOUNTADMIN" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-28" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-29" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SYSADMIN" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="USERADMIN" vertex="1">
+          <mxGeometry height="60" width="120" x="1120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DATA ENGINEER" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ANALYST" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="USAGE tables, views IN GOLD&amp;nbsp;&lt;br&gt;USAGE warehouses&lt;br&gt;&lt;br&gt;Access through external tool&lt;br&gt;No SnowSight" vertex="1">
+          <mxGeometry height="100" width="160" x="200" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CREATE, MODIFY, DROP tables, views&lt;br&gt;USAGE warehouses&lt;br&gt;RUN dbt" vertex="1">
+          <mxGeometry height="60" width="160" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MONITOR" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="VIEW cost_monitoring, query history&lt;br&gt;ACCESS Custom dashboards" vertex="1">
+          <mxGeometry height="70" width="160" x="1150" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CREATE user" vertex="1">
+          <mxGeometry height="70" width="160" x="1280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-23" edge="1" parent="1" source="cQloMc94f7-QOOJhuJX4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cQloMc94f7-QOOJhuJX4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SECURITYADMIN" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="MANAGE user permission&lt;br&gt;GRANT roles and permission" vertex="1">
+          <mxGeometry height="70" width="160" x="1161" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SECURITY" vertex="1">
+          <mxGeometry height="30" width="70" x="960" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="All access to infrastructure" vertex="1">
+          <mxGeometry height="70" width="160" x="320" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INFRASTRUCTURE" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cQloMc94f7-QOOJhuJX4-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="COST MONITORING" vertex="1">
+          <mxGeometry height="30" width="140" x="960" y="770" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
