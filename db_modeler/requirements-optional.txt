@@ -1,0 +1,15 @@
+# Optional dependencies
+# Install these only if you need PostgreSQL support for metadata storage
+
+# PostgreSQL support (Windows users may need to install PostgreSQL first)
+# psycopg2-binary==2.9.9
+
+# Or use the pre-built wheel if available:
+# pip install psycopg2-binary --only-binary :all:
+
+# For Windows, you might need to:
+# 1. Install PostgreSQL from https://www.postgresql.org/download/windows/
+# 2. Add PostgreSQL bin directory to PATH
+# 3. Then install: pip install psycopg2-binary
+
+# Note: The application works fine without PostgreSQL - it uses in-memory storage by default

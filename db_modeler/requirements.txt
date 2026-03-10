@@ -1,0 +1,35 @@
+# Backend Dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Snowflake
+snowflake-connector-python==3.7.0
+snowflake-sqlalchemy==1.5.0
+
+# Database
+sqlalchemy==2.0.23
+# psycopg2-binary==2.9.9  # For metadata storage (optional) - install separately if needed
+# Alternative: Use SQLite for local storage (no additional dependencies needed)
+
+# AI/LLM
+openai==1.3.5
+anthropic==0.7.8
+
+# Diagram Generation
+# graphviz==0.20.1  # Optional - requires Graphviz system installation
+# pygraphviz==1.11  # Optional - requires Graphviz system installation
+# mermaid-py==0.1.0  # Optional - frontend handles Mermaid rendering
+
+# Utilities
+python-dotenv==1.0.0
+httpx==0.25.2
+aiofiles==23.2.1
+jinja2==3.1.2
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+flake8==6.1.0
